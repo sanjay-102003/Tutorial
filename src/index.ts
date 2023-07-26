@@ -13,12 +13,3 @@ class Person {
     this.name = name;
   }
 }
-
-let person1: person = {
-  name: "sanj",
-  age: "hss",
-};
-
-let person2: Person = new Person("Sanja");
-
-console.log(person1, person2);
