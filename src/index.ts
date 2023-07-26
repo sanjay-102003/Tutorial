@@ -13,3 +13,5 @@ class Person {
     this.name = name;
   }
 }
+
+let a = "From 2"
